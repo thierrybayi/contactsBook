@@ -1,0 +1,22 @@
+
+body {
+  width: 100%;
+  font-family: 'Open Sans', sans-serif;
+  background-color: whiteSmoke;
+  margin: 15px;
+}
+
+table td{
+  width:150px;
+  text-align: center; 
+  width: 100%;
+  
+}
+
+fieldset{
+  width: 90%;
+  height: 500px;
+  
+}
+
+

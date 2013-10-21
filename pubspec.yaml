@@ -1,0 +1,8 @@
+name: contactsBook
+version: 0.0.1
+author: Thierry Bayi <thierrybayi@yahoo.fr>
+description: An example of web application for contacts.
+dependencies:
+  browser: any
+  dartlero:
+    git: git://github.com/dzenanr/dartlero.git
