@@ -1,0 +1,11 @@
+ex06
+
+3/10
+
+README: le nom du cours ?
+
+(-1) .gitignore ?
+
+(-2) s01: The null object does not have a method 'add'.
+(-2) s02: The null object does not have a method 'add'.
+(-2) s03: Internal error: Dart_Invoke: did not find top-level function 'main'.
